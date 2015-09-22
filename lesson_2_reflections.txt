@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it? To be able to track commits you need to intialise
+How is the staging area different from the working directory and the repository? What value do you think it offers? Its a half-way house to the commit, gives you a special space to deal with what your gonna commit
